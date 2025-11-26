@@ -60,7 +60,7 @@ This project simulates a real-world retail business environment where transactio
 ---
 
 ##  Data Model 
-![Data Model](https://raw.githubusercontent.com/lokesh-u-2004/Retail-Store-Data-Warehouse-Analytics-Project/main/docs/Data%20Model.png)
+![Data Model](https://raw.githubusercontent.com/lokesh-u-2004/Retail-Store-Data-Warehouse-Analytics-Project/main/images/Data%20Model.png)
 
 ---
 ## 📊 Business KPIs & Insights
