@@ -87,8 +87,10 @@ This warehouse answers key business questions:
 ✔ Shipping cost impact on margin  
 
 📌 File: `powerbi/Retail_Sales_Analytics.pbix`
+![Dashboard Homepage](https://raw.githubusercontent.com/lokesh-u-2004/Retail-Store-Data-Warehouse-Analytics-Project/main/images/Homepage.png)
+![Product Insights](https://raw.githubusercontent.com/lokesh-u-2004/Retail-Store-Data-Warehouse-Analytics-Project/main/images/Product%20Insights.png)
 
-
+**Currently doing** Customer and Store Analysis
 ---
 
 ## 🔄 ETL Pipeline (Python → SQL Server)
