@@ -30,17 +30,16 @@ This project simulates a real-world retail business environment where transactio
 
 ---
 
-## Folder Structure
 
-Retail-Store-Data-Warehouse-Analytics-Project/
-│
-├── data/ # Raw CSV Data Files (2014–2025 YTD)
-├── sql/ # SQL scripts for schema, dims & fact loading
-├── etl/ # Python ETL Pipeline (load_warehouse.py)
-├── powerbi/ # PBIX Dashboard
-├── docs/ # ER Diagram & Data Model architecture
-└── README.md
-
+## Project Structure:
+       Retail-Store-Data-Warehouse-Analytics-Project/
+       │── data/ # Raw CSV Data Files (2014–2025 YTD)
+       │── sql/ # SQL scripts for schema, dims & fact loading
+       │── .env
+       │── powerbi/ # PBIX Dashboard
+       │── docs/ # ER Diagram & Data Model architecture
+       │── requirements.txt
+       │── etl.py 
 ---
 
 ## Data Warehouse Schema – Snowflake Model
