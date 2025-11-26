@@ -59,8 +59,8 @@ This project simulates a real-world retail business environment where transactio
 
 ---
 
-##  ER Diagram & Data Model
-
+##  Data Model 
+![Data Model](https://raw.githubusercontent.com/lokesh-u-2004/Retail-Store-Data-Warehouse-Analytics-Project/main/docs/Data%20Model.png)
 
 ---
 ## 📊 Business KPIs & Insights
@@ -72,7 +72,7 @@ This warehouse answers key business questions:
 | Which loyalty tiers bring highest repeat sales? | Customer segmentation |
 | What product categories drive profit? | Merchandising |
 | Do discounts improve or hurt revenue? | Promotion analytics |
-| Which months perform better? | Trend forecasting |
+| Which Years perform better? | Trend forecasting |
 | Weekday vs Weekend sales difference? | Operational planning |
 
 ---
@@ -88,7 +88,6 @@ This warehouse answers key business questions:
 
 📌 File: `powerbi/Retail_Sales_Analytics.pbix`
 
-> Dashboard screenshot will be added soon.
 
 ---
 
