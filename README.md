@@ -87,7 +87,10 @@ This warehouse answers key business questions:
 ✔ Shipping cost impact on margin  
 
 📌 File: `powerbi/Retail_Sales_Analytics.pbix`
+### Home Page
 ![Dashboard Homepage](https://raw.githubusercontent.com/lokesh-u-2004/Retail-Store-Data-Warehouse-Analytics-Project/main/images/Homepage.png)
+
+### Product and Cateogry Page
 ![Product Insights](https://raw.githubusercontent.com/lokesh-u-2004/Retail-Store-Data-Warehouse-Analytics-Project/main/images/Category.png)
 
 **Currently doing** Customer and Store Analysis
